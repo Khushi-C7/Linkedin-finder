@@ -2,8 +2,8 @@ import streamlit as st
 import requests
 
 # Set your API keys here
-groq_api_key = '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'
-serpapi_key = '41cfad4e0be06f2477c1041b10944db82b1a050f6521aeb3f98b326401167e12'
+groq_api_key = 
+serpapi_key = 
 
 def generate_search_query(name):
     url = "https://api.groq.com/openai/v1/chat/completions"
